@@ -1,0 +1,12 @@
+.header-parent{
+    background-color: #FFF8F5;
+    padding-top: 50px;
+}
+
+.header-btn{
+    background-color: #F63E7B;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+}

@@ -1,0 +1,21 @@
+.sidebar{
+    position: fixed;
+}
+.sidebar li{
+    
+    margin-bottom: 2em;
+}
+
+.link {
+    color: #F63E7B;
+}
+.link:hover{
+    color: #F63E7B;
+}
+.sidebar li:hover span{
+    display: inline-block;
+    transform: translate(5px);
+}
+.sidebar svg{
+    margin-right: 5px;
+}

@@ -1,0 +1,12 @@
+.book-btn{
+    background-color: #F63E7B;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+}
+
+.service-area:hover{
+    border-radius: 5px;
+    box-shadow: 5px 5px 30px gray;
+}

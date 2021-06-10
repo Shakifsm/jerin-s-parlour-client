@@ -1,0 +1,16 @@
+input{
+    border: 1px solid gray;
+    padding-left: 10px;
+}
+
+input[type="file"]{
+    display: none;
+}
+
+.file{
+    border: 1px solid #F74882;
+    border-radius: 5px;
+    padding: 5px 15px;
+    color: #F74882;
+    background-color: #FFEAF3;
+}
